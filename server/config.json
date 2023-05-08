@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ghs Julian",
+    "college": "National Univercity",
+    "course": "Honours (BA)",
+    "city": "Washington DC",
+    "country": "United States",
+    "profession": "Web Developer",
+    "language": "English (US)",
+    "post" : "Success is not final, failure is not fatal: It is the courage to continue that counts."
+  },
+  {
+    "name": "Smita Smith",
+    "college": "National Univercity",
+    "course": "Bechorol Degree",
+    "city": "Techma City",
+    "country": "United States",
+    "profession": "Web Desginer",
+    "language": "English (US)",
+    "post" : "If your actions inspire others to dream more, learn more, do more and become more, you are a leader."
+  },
+  {
+    "name": "Sweta Sharma",
+    "college": "Technical college",
+    "course": "MA In English",
+    "city": "New Delhi",
+    "country": "India",
+    "profession": "Graphics Desginer",
+    "language": "Hindi",
+    "post" : "If you want something you've never had, you must be willing to do something you've never done." 
+  }
+]
